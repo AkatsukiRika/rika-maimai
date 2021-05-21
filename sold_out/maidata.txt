@@ -3,7 +3,7 @@
 &wholebpm=120
 &first=0
 &lv_5=10+
-&des_4=jiangzhou.kt
+&des_5=jiangzhou.kt
 
 &inote_5=
 (120)
